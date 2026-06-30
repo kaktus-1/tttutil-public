@@ -1,12 +1,12 @@
 {
   "modId": "tttutil",
-  "version": "1.0.31",
-  "releasedAt": "2026-06-29T16:53:24Z",
+  "version": "1.0.32",
+  "releasedAt": "2026-06-30T18:50:59Z",
   "releases": [
     {
       "minecraftVersion": "1.21.11",
-      "downloadUrl": "https://github.com/kaktus-1/tttutil-public/releases/download/v1.0.31/tttutil-1.0.31-1.21.11.jar",
-      "sha256": "4dcf1486ea0727de0ae9878338df3060d6bca3b00c7e68ead8b2b83e2b659634"
+      "downloadUrl": "https://github.com/kaktus-1/tttutil-public/releases/download/v1.0.32/tttutil-1.0.32-1.21.11.jar",
+      "sha256": "a367470b867512bea21cf46f5d70a1acb3832e4444001717e6e86f9ac8d57d8e"
     }
   ]
 }
